@@ -1,0 +1,23 @@
+# CMake build directories
+cmake-build-*/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled files
+*.o
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# macOS
+.DS_Store
+
+CLAUDE.md
